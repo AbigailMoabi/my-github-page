@@ -54,12 +54,12 @@ nav a:hover {
 } 
 
 img {
-    max-width: 80%;
-    height:auto;
+    max-height: 250px;
+    width:auto;
     border: 4px solid #6a0dad;
     border-radius: 10px;
     display: block;
-    margin: 20px auto;
+    margin: 5px auto;
 }
 
 main {
